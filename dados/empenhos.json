@@ -1,0 +1,17 @@
+{
+  "inicio_monitoramento": "2026-11-05",
+  "atualizado_em": null,
+  "validado": false,
+  "status": "aguardando_validacao_das_fontes",
+  "fontes": {
+    "SEDUC": {
+      "url": "https://www.transparenciafiscal.am.gov.br/transparencia/despesas",
+      "validado": false
+    },
+    "SEMED": {
+      "url": "https://transparencia.manaus.am.gov.br/",
+      "validado": false
+    }
+  },
+  "empenhos": []
+}
