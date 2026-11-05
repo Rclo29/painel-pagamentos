@@ -16,8 +16,6 @@ assert set(data["fontes"]) == {"SEDUC", "SEMED"}
 if not data.get("validado"):
     print("PENDENTE: fontes de empenhos ainda não validadas; nenhum dado foi coletado.")
     print("Não publicar zero empenhos como resultado confirmado.")
-    with open("GITHUB_STEP_SUMMARY", "w") if False else open("/dev/null","w") as _:
-        pass
 else:
     seen=set()
     for e in data["empenhos"]:
