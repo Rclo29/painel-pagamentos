@@ -1,8 +1,8 @@
 {
-  "inicio_monitoramento": "2026-11-05",
+  "inicio_monitoramento": "2026-11-01",
   "atualizado_em": null,
   "validado": false,
-  "status": "aguardando_validacao_das_fontes",
+  "status": "pendente_extracao_validada",
   "fontes": {
     "SEDUC": {
       "url": "https://www.transparenciafiscal.am.gov.br/transparencia/despesas",
@@ -13,5 +13,6 @@
       "validado": false
     }
   },
-  "empenhos": []
+  "empenhos": [],
+  "observacao": "Portais consultáveis, mas não foi possível extrair e validar a listagem integral de empenhos emitidos desde 01/11/2026. Não confundir registros de pagamentos com novos empenhos."
 }
