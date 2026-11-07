@@ -6,13 +6,18 @@
   "fontes": {
     "SEDUC": {
       "url": "https://www.transparenciafiscal.am.gov.br/transparencia/despesas",
-      "validado": false
+      "validado": false,
+      "ultima_tentativa": "2026-11-06",
+      "impedimento": "Página de despesas exige JavaScript; não foi possível obter paginação e data de emissão auditáveis."
     },
     "SEMED": {
-      "url": "https://transparencia.manaus.am.gov.br/",
-      "validado": false
+      "url": "https://transparencia.manaus.am.gov.br/transparencia/v2/#/empenhoslista",
+      "validado": false,
+      "ultima_tentativa": "2026-11-06",
+      "impedimento": "Aplicação exige JavaScript; não foi possível obter listagem integral auditável."
     }
   },
   "empenhos": [],
-  "observacao": "Portais consultáveis, mas não foi possível extrair e validar a listagem integral de empenhos emitidos desde 01/11/2026. Não confundir registros de pagamentos com novos empenhos."
+  "observacao": "Consulta em 06/11/2026: nenhuma fonte permitiu extração integral verificável. Base anterior preservada; zero registros não significa zero empenhos.",
+  "ultima_tentativa": "2026-11-06"
 }
