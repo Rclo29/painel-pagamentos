@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-24",
+  "atualizado_em": "2026-11-26",
   "fonte": "Relatórios validados SEMED e SEDUC",
   "pagamentos": [
     {
@@ -15746,15 +15746,6 @@
     {
       "data": "2026-11-18",
       "orgao": "SEDUC",
-      "credor": "COLONIA DE PESCADORES Z 17 DE PARINTINS",
-      "empenho": "2026NE0006405",
-      "valor": 12252.7,
-      "pagamento": "2026OB0017612",
-      "categoria": "FORNECIMENTO DE BENS"
-    },
-    {
-      "data": "2026-11-18",
-      "orgao": "SEDUC",
       "credor": "ASSOCIACAO DOS AGRICULTORES FAMILIARES DO PDS CUIEIRAS AAFPDS CUIEIRAS",
       "empenho": "2026NE0007467",
       "valor": 164239.72,
@@ -15906,6 +15897,15 @@
       "categoria": "FORNECIMENTO DE BENS"
     },
     {
+      "data": "2026-11-18",
+      "orgao": "SEDUC",
+      "credor": "COLONIA DE PESCADORES Z 17 DE PARINTINS",
+      "empenho": "2026NE0006405",
+      "valor": 12252.7,
+      "pagamento": "2026OB0017641",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
       "data": "2026-11-23",
       "orgao": "SEDUC",
       "credor": "RGK SERVICOS DE ENGENHARIA LTDA",
@@ -15984,24 +15984,6 @@
       "empenho": "2026NE0006603",
       "valor": 7697.26,
       "pagamento": "2026OB0017689",
-      "categoria": "FORNECIMENTO DE BENS"
-    },
-    {
-      "data": "2026-11-24",
-      "orgao": "SEDUC",
-      "credor": "LENA BATISTA BRITO",
-      "empenho": "2026NE0005462",
-      "valor": 507.98,
-      "pagamento": "2026OB0017690",
-      "categoria": "FORNECIMENTO DE BENS"
-    },
-    {
-      "data": "2026-11-24",
-      "orgao": "SEDUC",
-      "credor": "LENA BATISTA BRITO",
-      "empenho": "2026NE0005463",
-      "valor": 298.02,
-      "pagamento": "2026OB0017691",
       "categoria": "FORNECIMENTO DE BENS"
     },
     {
@@ -16120,7 +16102,673 @@
       "valor": 1267.52,
       "pagamento": "2026OB0017704",
       "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ZILDA NUNES MOCAMBITE",
+      "empenho": "2026NE0004284",
+      "valor": 710.11,
+      "pagamento": "2026OB0017705",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGRICOLA INDIGENA NOVA ESPERANCA - COOINE",
+      "empenho": "2026NE0006663",
+      "valor": 4000,
+      "pagamento": "2026OB0017706",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "MANOEL DE CASTRO MENDONCA FILHO",
+      "empenho": "2026NE0006063",
+      "valor": 835.64,
+      "pagamento": "2026OB0017707",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "MANOEL DE CASTRO MENDONCA FILHO",
+      "empenho": "2026NE0006064",
+      "valor": 469.82,
+      "pagamento": "2026OB0017708",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006575",
+      "valor": 23178.03,
+      "pagamento": "2026OB0017709",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006576",
+      "valor": 78810.89,
+      "pagamento": "2026OB0017710",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006577",
+      "valor": 40010.15,
+      "pagamento": "2026OB0017711",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006578",
+      "valor": 10738.33,
+      "pagamento": "2026OB0017712",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006579",
+      "valor": 25021.21,
+      "pagamento": "2026OB0017713",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006580",
+      "valor": 40852.79,
+      "pagamento": "2026OB0017714",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006581",
+      "valor": 9406.08,
+      "pagamento": "2026OB0017715",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006582",
+      "valor": 11615.31,
+      "pagamento": "2026OB0017716",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006583",
+      "valor": 122092.04,
+      "pagamento": "2026OB0017717",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006584",
+      "valor": 152014.58,
+      "pagamento": "2026OB0017718",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO RURAL AGROEXTRATIVISTA DO PARANA DO MUNDURUCUS-AGROMUN",
+      "empenho": "2026NE0006369",
+      "valor": 17015.33,
+      "pagamento": "2026OB0017719",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO RURAL AGROEXTRATIVISTA DO PARANA DO MUNDURUCUS-AGROMUN",
+      "empenho": "2026NE0006367",
+      "valor": 319.77,
+      "pagamento": "2026OB0017720",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "DIKCINEI RAMOS LOPES",
+      "empenho": "2026NE0006024",
+      "valor": 5724.29,
+      "pagamento": "2026OB0017721",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "SUZELI DA COSTA MARTINS DANTAS",
+      "empenho": "2026NE0006079",
+      "valor": 2643.67,
+      "pagamento": "2026OB0017722",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "SUZELI DA COSTA MARTINS DANTAS",
+      "empenho": "2026NE0006080",
+      "valor": 1560.05,
+      "pagamento": "2026OB0017723",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "FAGNER ALBINO NECO",
+      "empenho": "2026NE0006025",
+      "valor": 6787.54,
+      "pagamento": "2026OB0017724",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "LIVIA IRINEU DA SILVA",
+      "empenho": "2026NE0006019",
+      "valor": 9429.38,
+      "pagamento": "2026OB0017725",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006585",
+      "valor": 91412.61,
+      "pagamento": "2026OB0017726",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006586",
+      "valor": 119515.89,
+      "pagamento": "2026OB0017727",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006587",
+      "valor": 3507.84,
+      "pagamento": "2026OB0017728",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006589",
+      "valor": 767.11,
+      "pagamento": "2026OB0017729",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006726",
+      "valor": 38099.2,
+      "pagamento": "2026OB0017730",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO DOS AGROPECUARISTAS DE ITAMARATI - AGROPEC",
+      "empenho": "2026NE0006430",
+      "valor": 3789.94,
+      "pagamento": "2026OB0017731",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006574",
+      "valor": 132026.32,
+      "pagamento": "2026OB0017732",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006569",
+      "valor": 584,
+      "pagamento": "2026OB0017733",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006571",
+      "valor": 5396.95,
+      "pagamento": "2026OB0017734",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006573",
+      "valor": 584.8,
+      "pagamento": "2026OB0017735",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DOS PRODUTORES RURAIS DE BORBA-COOPBOR",
+      "empenho": "2026NE0006570",
+      "valor": 438.49,
+      "pagamento": "2026OB0017736",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇAO DOS AGROEXTRATIVISTAS DE SAO PAULO DE OLIVENÇA AGROEXSPO",
+      "empenho": "2026NE0006679",
+      "valor": 45442.75,
+      "pagamento": "2026OB0017737",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROPECUARIA DOS PESCADORES DA MESORREGIAO DO AMAZONAS COOPEIXE",
+      "empenho": "2026NE0005691",
+      "valor": 38054.26,
+      "pagamento": "2026OB0017738",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROPECUARIA DOS PESCADORES DA MESORREGIAO DO AMAZONAS COOPEIXE",
+      "empenho": "2026NE0005692",
+      "valor": 25149.53,
+      "pagamento": "2026OB0017739",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROPECUARIA DOS PESCADORES DA MESORREGIAO DO AMAZONAS COOPEIXE",
+      "empenho": "2026NE0005693",
+      "valor": 34120.46,
+      "pagamento": "2026OB0017740",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROPECUARIA DOS PESCADORES DA MESORREGIAO DO AMAZONAS COOPEIXE",
+      "empenho": "2026NE0005694",
+      "valor": 22498.86,
+      "pagamento": "2026OB0017741",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ROSIVALDA GARRIDO PEREIRA",
+      "empenho": "2026NE0003035",
+      "valor": 3351.77,
+      "pagamento": "2026OB0017742",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ROSIVALDA GARRIDO PEREIRA",
+      "empenho": "2026NE0003036",
+      "valor": 2156.24,
+      "pagamento": "2026OB0017743",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "OCILINA DOS SANTOS RODRIGUES",
+      "empenho": "2026NE0006058",
+      "valor": 1341.86,
+      "pagamento": "2026OB0017744",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "OCILINA DOS SANTOS RODRIGUES",
+      "empenho": "2026NE0006059",
+      "valor": 808.18,
+      "pagamento": "2026OB0017745",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO AGROPECUARIA DO MUNICIPIO DE ENVIRA",
+      "empenho": "2026NE0006515",
+      "valor": 7596.26,
+      "pagamento": "2026OB0017746",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "WERLISON CAMARGO LEONARDO",
+      "empenho": "2026NE0005707",
+      "valor": 431.6,
+      "pagamento": "2026OB0017747",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "WERLISON CAMARGO LEONARDO",
+      "empenho": "2026NE0005708",
+      "valor": 243.56,
+      "pagamento": "2026OB0017748",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇAO MAO NA TERRA",
+      "empenho": "2026NE0001059",
+      "valor": 38857.48,
+      "pagamento": "2026OB0017749",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO AGROPECUARIA DO MUNICIPIO DE ENVIRA",
+      "empenho": "2026NE0002690",
+      "valor": 17807.8,
+      "pagamento": "2026OB0017750",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇAO DOS AGROEXTRATIVISTAS DE SAO PAULO DE OLIVENÇA AGROEXSPO",
+      "empenho": "2026NE0006680",
+      "valor": 30086.62,
+      "pagamento": "2026OB0017751",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO AGROPECUARIA DO MUNICIPIO DE ENVIRA",
+      "empenho": "2026NE0006514",
+      "valor": 11680.54,
+      "pagamento": "2026OB0017752",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "THAINA GOMES",
+      "empenho": "2026NE0006366",
+      "valor": 18458.45,
+      "pagamento": "2026OB0017753",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "RUTHE MEDEIROS GURGEL",
+      "empenho": "2026NE0006712",
+      "valor": 13013.82,
+      "pagamento": "2026OB0017754",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "LENER PACAIO TANANTA",
+      "empenho": "2026NE0004294",
+      "valor": 2210.3,
+      "pagamento": "2026OB0017755",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "LENER PACAIO TANANTA",
+      "empenho": "2026NE0004295",
+      "valor": 1468.01,
+      "pagamento": "2026OB0017756",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "MARIA DAS GRACAS PEREIRA CORTEZ",
+      "empenho": "2026NE0007181",
+      "valor": 7642.8,
+      "pagamento": "2026OB0017757",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0004278",
+      "valor": 3036.58,
+      "pagamento": "2026OB0017758",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0004279",
+      "valor": 2007.54,
+      "pagamento": "2026OB0017759",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇÃO DE PESCADORES E AGRICULTORES DA COMUNIDADE ALTAMIRA - APEACA",
+      "empenho": "2026NE0006344",
+      "valor": 12198,
+      "pagamento": "2026OB0017760",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO DOS PRODUTORES RURAIS DA REGIAO NORTE - ASPRONORTE",
+      "empenho": "2026NE0002657",
+      "valor": 1360.32,
+      "pagamento": "2026OB0017761",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇÃO DE PESCADORES E AGRICULTORES DA COMUNIDADE ALTAMIRA - APEACA",
+      "empenho": "2026NE0006345",
+      "valor": 8094,
+      "pagamento": "2026OB0017762",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇÃO DE PESCADORES E AGRICULTORES DA COMUNIDADE ALTAMIRA - APEACA",
+      "empenho": "2026NE0006346",
+      "valor": 3990,
+      "pagamento": "2026OB0017763",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIAÇÃO DE PESCADORES E AGRICULTORES DA COMUNIDADE ALTAMIRA - APEACA",
+      "empenho": "2026NE0006347",
+      "valor": 2622,
+      "pagamento": "2026OB0017764",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "BRUNA DOS SANTOS RODRIGUES",
+      "empenho": "2026NE0005996",
+      "valor": 526.56,
+      "pagamento": "2026OB0017765",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "BRUNA DOS SANTOS RODRIGUES",
+      "empenho": "2026NE0005997",
+      "valor": 277.23,
+      "pagamento": "2026OB0017766",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0007283",
+      "valor": 15767.87,
+      "pagamento": "2026OB0017767",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0007284",
+      "valor": 10277.62,
+      "pagamento": "2026OB0017768",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO RURAL AGROEXTRATIVISTA DO PARANA DO MUNDURUCUS-AGROMUN",
+      "empenho": "2026NE0006371",
+      "valor": 9944.58,
+      "pagamento": "2026OB0017769",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO RURAL AGROEXTRATIVISTA DO PARANA DO MUNDURUCUS-AGROMUN",
+      "empenho": "2026NE0006372",
+      "valor": 6485.95,
+      "pagamento": "2026OB0017770",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "SUELI MELGUEIRO D ELIA",
+      "empenho": "2026NE0006550",
+      "valor": 17902.18,
+      "pagamento": "2026OB0017771",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ELIZANGILA CRAVEIRA DE ALMEIDA",
+      "empenho": "2026NE0006524",
+      "valor": 972.42,
+      "pagamento": "2026OB0017772",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ELIZANGILA CRAVEIRA DE ALMEIDA",
+      "empenho": "2026NE0006528",
+      "valor": 423.6,
+      "pagamento": "2026OB0017773",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA DE PRODUCAO DA AGRICULTURA FAMILIAR DO JATUA - COMUNIDADE CAJUCARA-AM COOPAFJA",
+      "empenho": "2026NE0006360",
+      "valor": 16418.27,
+      "pagamento": "2026OB0017774",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO DE PRODUTORES RURAIS DO POLO CAICARA DO RIO MADEIRA",
+      "empenho": "2026NE0006426",
+      "valor": 16620.4,
+      "pagamento": "2026OB0017775",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "ASSOCIACAO DE PRODUTORES RURAIS DO POLO CAICARA DO RIO MADEIRA",
+      "empenho": "2026NE0006427",
+      "valor": 11074.98,
+      "pagamento": "2026OB0017776",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0004275",
+      "valor": 5868.52,
+      "pagamento": "2026OB0017777",
+      "categoria": "FORNECIMENTO DE BENS"
+    },
+    {
+      "data": "2026-11-25",
+      "orgao": "SEDUC",
+      "credor": "COOPERATIVA AGROEXTRATIVISTA MISTA DOS PRODUTORES DO MUNICIPIO DE GUAJARA",
+      "empenho": "2026NE0004276",
+      "valor": 3831.09,
+      "pagamento": "2026OB0017778",
+      "categoria": "FORNECIMENTO DE BENS"
     }
   ],
-  "sincronizado_em": "2026-11-25T01:07:07.102Z"
+  "sincronizado_em": "2026-11-27T01:05:56.860Z"
 }
